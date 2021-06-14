@@ -11,18 +11,18 @@
         
         <nav class="container navbar navbar-expand-sm bg-light navbar-light pl-3">
             <ul class="navbar-nav">
-            <li class="nav-item active">
-                <a class="nav-link" href="landingPage.html">Landing Page</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="homePage.php">Home</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Link</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link disabled" href="#">Disabled</a>
-            </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="landingPage.html">Landing Page</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="homePage.php">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Link</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="admin.php">Admin</a>
+                </li>
             </ul>
         </nav>
 
