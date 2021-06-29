@@ -1,0 +1,14 @@
+.link:link, .link:active, .link:visited{
+    text-decoration: none;
+    color: black;
+}
+
+.link:hover{
+    text-decoration: underline;
+}
+
+.img-thumbnail{
+    width: 250px;
+    float: left;
+    margin-right: 10px;
+}
